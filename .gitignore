@@ -1,0 +1,7 @@
+# Project exclude paths
+/Coupon/target/
+/Delivery/target/
+/gateway/target/
+/Order/target/
+/Payment/target/
+/StatusView/target/
